@@ -1,4 +1,4 @@
 # Docker-Playground
 Repo for Docker testing 
 
-This is a README
+Taken from https://docker-curriculum.com/
